@@ -415,7 +415,3 @@ cd classio
 - `npm run format` — Formats all frontend files using Prettier.
 
 ---
-
-## License
-
-ISC License. Built by [Harsh Sorout](https://github.com/Harsh-sorout-2007).
