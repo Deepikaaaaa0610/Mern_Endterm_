@@ -5,7 +5,8 @@
 
 ### 
 Video Link: https://drive.google.com/file/d/1RxTZxTI2sjD5XRpb6TBdMT50oZmTgo_L/view?usp=drivesdk
-🌐 Live Demo: [classio-five.vercel.app](https://classio-five.vercel.app/)
+
+Live Demo: [classio-five.vercel.app](https://classio-five.vercel.app/)
 
 ---
 
